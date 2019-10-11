@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo docker exec -it erpmycentra_yarn_1 yarn ${@:1}
+
